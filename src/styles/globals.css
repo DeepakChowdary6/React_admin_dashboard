@@ -11,7 +11,7 @@ body{
   grid-row: 1 /span 3;
   width: 300px;
   height: 100vh;
-  border-radius: 25px;
+  border-radius: 5px;
 
   margin-left: 30px;
   box-sizing: border-box;
@@ -81,7 +81,7 @@ body{
   font-size: 14px;
   color: inherit;
   border: 1px solid transparent;
-  border-radius: inherit;
+  border-radius: 5px;
 }
 
 .hdr .header .right__content input[type="search"]::placeholder {
@@ -137,7 +137,7 @@ body{
   display: flex;
   justify-content: center;
   background-color: whitesmoke;
-  border-radius: 5%;
+  border-radius: 5px;
   border: solid 3px black;
 
 
